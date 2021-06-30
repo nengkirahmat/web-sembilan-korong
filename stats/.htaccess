@@ -1,0 +1,7 @@
+AuthName "tanjungpaku.solokkota.go.id statistics"
+AuthType Basic
+AuthUserFile /home/tanjungpaku/.stats-htpasswd
+require valid-user
+<Files .stats-htpasswd>
+deny from all
+</Files>

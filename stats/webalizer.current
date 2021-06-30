@@ -1,0 +1,640 @@
+# Webalizer V2.23-08 Incremental Data - 06/27/2021 14:50:45
+2021 6 27 14 50 45
+2709 2230 1 180 50 30 100069474 446 47 0 0 0
+1 1 340 2 27
+0 0 0 0 0 0 0 0
+199 129 7454112 1 38 4 0 0
+760 661 27755977 1 130 7 0 0
+772 685 25733442 1 158 5 0 0
+0 0 0 0 0 0 0 0
+5 1 18377 1 5 1 0 0
+201 157 8638312 1 6 3 0 0
+0 0 0 0 0 0 0 0
+156 143 6951819 1 8 4 0 0
+0 0 0 0 0 0 0 0
+294 221 11086557 1 38 6 0 0
+5 1 18243 1 5 1 0 0
+1 0 2046 1 1 1 0 0
+218 189 11403320 1 19 4 0 0
+1 0 2034 1 1 1 0 0
+5 1 18311 1 5 1 0 0
+0 0 0 0 0 0 0 0
+10 2 36550 1 10 2 0 0
+0 0 0 0 0 0 0 0
+10 2 36244 1 10 2 0 0
+1 0 2046 1 1 1 0 0
+0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0
+18 2 162079 1 3 1 0 0
+0 0 0 0 0 0 0 0
+52 35 737427 1 7 2 0 0
+1 1 12578 1 1 1 0 0
+0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0
+6 2 88290 6 0 0
+5 1 18269 5 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+52 35 737983 7 0 0
+97 92 5462736 2 0 0
+321 286 15669191 18 0 0
+480 406 16232483 79 0 0
+324 285 12783601 64 0 0
+218 163 6231057 26 0 0
+214 158 7055102 18 0 0
+15 3 54909 15 0 0
+235 174 8596252 24 0 0
+42 17 637382 24 0 0
+107 99 6073017 7 0 0
+102 97 5756444 3 0 0
+159 128 2570236 71 0 0
+89 86 5124635 1 0 0
+13 6 304743 7 0 0
+206 188 6480838 60 0 0
+0 0 0 0 0 0
+24 4 192306 9 0 0
+0
+0
+0
+2230
+0
+0
+0
+0
+0
+32
+0
+0
+29
+0
+81
+0
+0
+0
+0
+0
+0
+118
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+219
+0
+0
+0
+0
+0
+# -urls- 
+/assets/js/leaflet.markercluster.js
+0 5 0 44595 0 0 0 0
+/assets/files/user_pict/kuser.png
+1 5 0 65960 0 0 0 0
+/desa/upload/artikel/sedang_1621403586_WhatsApp Image 2021-05-17 at 11.14.46.jpeg
+0 10 0 982590 0 0 0 0
+/desa/upload/artikel/sedang_1621402562_WhatsApp Image 2021-05-18 at 11.19.28.jpeg
+0 10 0 1589430 0 0 0 0
+/desa/upload/user_pict/cHdhuj_Novriadi.jpg
+1 17 0 966183 0 0 0 0
+/assets/bootstrap/css/bootstrap.bar.css
+0 6 0 132174 0 0 0 0
+/desa/upload/artikel/sedang_1621403992_WhatsApp Image 2021-05-18 at 15.20.29.jpeg
+0 7 0 509621 0 0 0 0
+/desa/upload/galeri/sedang_f8Dgkx_WhatsApp+Image+2021-05-17+at+11.29.53.jpeg
+0 18 0 1521604 0 0 0 0
+/desa/upload/user_pict/s6TCkr_lurah+IX+Korong.jpg
+1 17 0 931515 0 0 0 0
+/themes/natra/assets/css/animate.css
+0 18 0 78084 0 0 0 0
+/desa/upload/artikel/sedang_1621404050_WhatsApp Image 2021-05-18 at 14.40.36.jpeg
+0 8 0 635464 0 0 0 0
+/desa/upload/galeri/sedang_R1GBYg_WhatsApp+Image+2021-05-18+at+13.01.09.jpeg
+0 18 0 2806244 0 0 0 0
+/assets/js/numeral.min.js
+0 5 0 21640 0 0 0 0
+/assets/js/highcharts/highcharts-3d.js
+0 19 0 265259 0 0 0 0
+/assets/bootstrap/css/select2.min.css
+0 5 0 11430 0 0 0 0
+/assets/js/highcharts/sankey.js
+0 20 0 101860 0 0 0 0
+/assets/js/highcharts/highcharts-more.js
+0 20 0 548140 0 0 0 0
+/assets/js/togeojson.js
+0 5 0 21735 0 0 0 0
+/themes/natra/assets/css/bootstrap.min.css
+0 18 0 342036 0 0 0 0
+/assets/js/highcharts/highcharts.js
+0 19 0 1792194 0 0 0 0
+/assets/js/highcharts/exporting.js
+0 19 0 127034 0 0 0 0
+/desa/upload/user_pict/kecil_0s1tdv_andri.JPG
+1 1 0 7814 0 0 0 0
+/assets/js/leaflet.groupedlayercontrol.min.js
+0 5 0 11500 0 0 0 0
+/desa/upload/artikel/sedang_1621404026_WhatsApp Image 2021-05-18 at 14.26.39.jpeg
+0 10 0 571316 0 0 0 0
+/themes/natra/assets/css/slick.css
+0 18 0 25866 0 0 0 0
+/desa/upload/galeri/sedang_QbBihy_WhatsApp+Image+2021-05-17+at+11.36.54.jpeg
+0 18 0 1476996 0 0 0 0
+/assets/bootstrap/js/dataTables.bootstrap.min.js
+0 19 0 25859 0 0 0 0
+/assets/css/leaflet.groupedlayercontrol.min.css
+0 5 0 2100 0 0 0 0
+/assets/js/leaflet-providers.js
+0 19 0 136325 0 0 0 0
+/desa/upload/artikel/sedang_1621403140_WhatsApp Image 2021-05-17 at 11.36.54.jpeg
+0 9 0 830664 0 0 0 0
+/assets/front/js/jquery.min.js
+0 21 0 639219 0 0 0 0
+/assets/front/js/jquery.colorbox.js
+0 19 0 173508 0 0 0 0
+/assets/css/images/layers-2x.png
+1 9 0 12064 0 0 0 0
+/desa/upload/galeri/sedang_w1fVP8_WhatsApp+Image+2021-05-09+at+11.29.44.jpeg
+0 17 0 2918482 0 0 0 0
+/themes/natra/assets/js/custom.js
+0 19 0 17594 0 0 0 0
+/assets/css/MarkerCluster.css
+0 5 0 2670 0 0 0 0
+/themes/natra/assets/css/images/slider_prev.png
+1 17 0 21804 0 0 0 0
+/themes/natra/assets/css/theme.css
+0 18 0 19710 0 0 0 0
+/desa/upload/artikel/sedang_1621403723_WhatsApp Image 2021-05-17 at 11.36.50.jpeg
+0 11 0 1843908 0 0 0 0
+/assets/bootstrap/css/dataTables.bootstrap.min.css
+0 20 0 24400 0 0 0 0
+/assets/js/leaflet.js
+0 19 0 770127 0 0 0 0
+/desa/upload/user_pict/kecil_1KLNyc_lusi+permata+sari.jpeg
+0 1 0 9512 0 0 0 0
+/assets/js/leaflet.shpfile.js
+0 5 0 4695 0 0 0 0
+/assets/css/login-form-elements.css
+0 6 0 5142 0 0 0 0
+/desa/upload/artikel/sedang_1621403962_WhatsApp Image 2021-05-17 at 11.36.53.jpeg
+0 10 0 644233 0 0 0 0
+/assets/bootstrap/js/bootstrap3-wysihtml5.all.min.js
+0 10 0 570050 0 0 0 0
+/assets/front/js/jquery.cycle2.min.js
+0 19 0 140581 0 0 0 0
+/desa/upload/artikel/sedang_1621403786_WhatsApp Image 2021-05-06 at 10.05.42.jpeg
+0 5 0 281402 0 0 0 0
+/themes/natra/assets/css/font-awesome.min.css
+0 18 0 95886 0 0 0 0
+/desa/upload/artikel/sedang_1621916849_PMI dukung kampung-tangguh-2.jpg
+1 5 0 232855 0 0 0 0
+/assets/bootstrap/js/bootstrap-datetimepicker.min.js
+0 5 0 48965 0 0 0 0
+/assets/css/mapbox-gl.css
+0 19 0 92321 0 0 0 0
+/assets/bootstrap/js/select2.full.min.js
+0 5 0 109280 0 0 0 0
+/assets/css/vuetify.min.css
+0 1 0 64694 0 0 0 0
+/desa/upload/user_pict/kecil_akzlyc_Febri+Anita.jpg
+1 1 0 10643 0 0 0 0
+/desa/upload/artikel/sedang_1622012923_Ketua Pemuda.jpg
+1 18 0 1715156 0 0 0 0
+/assets/js/dom-to-image.min.js
+0 5 0 18290 0 0 0 0
+/desa/upload/user_pict/kecil_s6TCkr_lurah+IX+Korong.jpg
+1 1 0 6509 0 0 0 0
+/assets/bootstrap/css/bootstrap-datepicker.min.css
+0 5 0 11775 0 0 0 0
+/assets/js/script.js
+0 19 0 121163 0 0 0 0
+/desa/upload/galeri/kecil_34xV6w_WhatsApp+Image+2021-05-17+at+11.29.51.jpeg
+0 17 0 442848 0 0 0 0
+/desa/upload/artikel/sedang_1621397882_WhatsApp Image 2020-06-14 at 10.25.24.jpeg
+0 8 0 1093985 0 0 0 0
+/favicon.ico
+0 5 0 76680 0 0 0 0
+/assets/css/L.Control.Locate.min.css
+0 5 0 2695 0 0 0 0
+/assets/images/next_button.png
+1 17 0 30368 0 0 0 0
+/themes/natra/assets/css/style.css
+0 18 0 89946 0 0 0 0
+/assets/bootstrap/js/dataTables.indonesian.lang
+0 1 0 997 0 0 0 0
+/assets/bootstrap/css/jquery-ui.min.css
+0 5 0 40890 0 0 0 0
+/assets/front/css/slider.css
+0 18 0 14742 0 0 0 0
+/assets/fonts/fontawesome-webfont.woff2
+0 17 0 1160825 0 0 0 0
+/assets/css/leaflet-measure-path.css
+0 5 0 2340 0 0 0 0
+/assets/css/leaflet.css
+0 19 0 66804 0 0 0 0
+/assets/bootstrap/css/font-awesome.min.css
+0 5 0 36690 0 0 0 0
+/assets/js/leaflet.browser.print.utils.js
+0 5 0 10400 0 0 0 0
+/desa/upload/user_pict/kecil_VhlMEG_respipal.jpg
+1 1 0 6359 0 0 0 0
+/assets/bootstrap/fonts/glyphicons-halflings-regular.woff2
+0 1 0 18238 0 0 0 0
+/assets/js/leaflet-geoman.min.js
+0 5 0 142020 0 0 0 0
+/assets/bootstrap/js/moment.min.js
+0 5 0 86620 0 0 0 0
+/assets/bootstrap/js/jquery-ui.min.js
+0 5 0 341535 0 0 0 0
+/assets/front/js/jquery.cycle2.carousel.js
+0 19 0 57076 0 0 0 0
+/assets/js/L.Control.Locate.min.js
+0 5 0 19320 0 0 0 0
+/themes/natra/images/noimage.png
+1 17 0 160398 0 0 0 0
+/assets/js/highcharts/accessibility.js
+0 20 0 473220 0 0 0 0
+/assets/bootstrap/js/bootstrap-datepicker.min.js
+0 6 0 62178 0 0 0 0
+/assets/css/login-style.css
+0 6 0 10392 0 0 0 0
+/themes/natra/assets/fonts/fontawesome-webfont.woff
+0 1 0 65699 0 0 0 0
+/desa/upload/galeri/sedang_lmijRB_WhatsApp+Image+2021-05-17+at+11.36.50.jpeg
+0 17 0 2514680 0 0 0 0
+/assets/js/apbdes_manual.js
+0 5 0 11280 0 0 0 0
+/desa/upload/user_pict/0s1tdv_andri.JPG
+1 17 0 315138 0 0 0 0
+/assets/js/leaflet.browser.print.js
+0 5 0 50965 0 0 0 0
+/assets/js/shp.js
+0 5 0 653725 0 0 0 0
+/desa/upload/artikel/sedang_1622014804_Ketua LPMK.jpg
+1 19 0 1863888 0 0 0 0
+/desa/upload/user_pict/kecil_rnsQK6_Rozana+Elmita.jpeg
+0 1 0 8138 0 0 0 0
+/assets/js/jquery.validate.min.js
+0 20 0 145780 0 0 0 0
+/desa/upload/artikel/sedang_1622019955_Ketua TP-PKK.jpg
+1 18 0 544282 0 0 0 0
+/assets/bootstrap/fonts/fontawesome-webfont.woff2
+0 5 0 386855 0 0 0 0
+/desa/upload/artikel/sedang_1621403640_WhatsApp Image 2021-05-09 at 11.29.44.jpeg
+0 11 0 1824100 0 0 0 0
+/themes/natra/assets/js/wow.min.js
+0 19 0 51870 0 0 0 0
+/assets/js/leaflet-mapbox-gl.js
+0 19 0 52858 0 0 0 0
+/desa/upload/media/struktur org kel sembiko.jpg
+1 3 0 447201 0 0 0 0
+/assets/bootstrap/js/bootstrap.min.js
+0 5 0 50660 0 0 0 0
+/desa/upload/user_pict/VhlMEG_respipal.jpg
+1 17 0 598209 0 0 0 0
+/desa/upload/user_pict/rnsQK6_Rozana+Elmita.jpeg
+0 17 0 1048509 0 0 0 0
+/desa/logo/kantor__sid__qNlsZGr.jpg
+1 1 0 71167 0 0 0 0
+/assets/bootstrap/js/jquery.min.js
+0 6 0 182634 0 0 0 0
+/themes/natra/assets/css/custom.css
+0 18 0 25002 0 0 0 0
+/assets/bootstrap/js/jquery.slimscroll.min.js
+0 5 0 10940 0 0 0 0
+/desa/css/siteman.css
+0 7 0 4676 0 0 0 0
+/desa/upload/galeri/sedang_c9RrHb_WhatsApp+Image+2021-05-10+at+10.56.24.jpeg
+0 18 0 1637588 0 0 0 0
+/desa/css/images/img1.jpg
+1 6 0 1399520 0 0 0 0
+/assets/front/fb.png
+1 17 0 81348 0 0 0 0
+/desa/upload/artikel/sedang_1621916540_Tim Penilai Provinsi Kunjungi TP-PKK Kelurahan IX Korong.jpg
+1 9 0 243721 0 0 0 0
+/assets/css/MarkerCluster.Default.css
+0 5 0 3390 0 0 0 0
+/desa/upload/artikel/sedang_1621402475_WhatsApp Image 2021-05-17 at 11.29.54.jpeg
+0 8 0 638180 0 0 0 0
+/assets/js/turf.min.js
+0 5 0 705120 0 0 0 0
+/assets/bootstrap/fonts/ionicons.ttf
+0 8 0 920766 0 0 0 0
+/desa/upload/user_pict/TwDWmP_Adimon.jpg
+1 17 0 1376184 0 0 0 0
+/assets/css/AdminLTE.min.css
+0 5 0 76440 0 0 0 0
+/desa/upload/artikel/sedang_1621921840_kelurahan IX Korong.jpg
+1 17 0 1067765 0 0 0 0
+/desa/logo/kotasolok__sid__8VaWdve.gif
+1 18 0 128922 0 0 0 0
+/desa/upload/user_pict/kecil_cHdhuj_Novriadi.jpg
+1 1 0 7346 0 0 0 0
+/assets/bootstrap/js/bootstrap-colorpicker.min.js
+0 5 0 32705 0 0 0 0
+/desa/upload/artikel/sedang_1621403325_WhatsApp Image 2021-05-10 at 10.56.25 (1).jpeg
+0 8 0 803504 0 0 0 0
+/assets/js/anti-csrf.js
+0 19 0 15390 0 0 0 0
+/assets/js/highcharts/organization.js
+0 20 0 49400 0 0 0 0
+/assets/css/L.Control.Shapefile.css
+0 5 0 2830 0 0 0 0
+/desa/upload/artikel/sedang_1621915980_Bundo Kanduang IX Korong (2).jpeg
+0 17 0 1529176 0 0 0 0
+/assets/js/axios.min.js
+0 1 0 5225 0 0 0 0
+/assets/css/images/layers.png
+1 8 0 6624 0 0 0 0
+/assets/bootstrap/css/bootstrap-colorpicker.min.css
+0 5 0 6900 0 0 0 0
+/assets/bootstrap/js/fastclick.js
+0 5 0 39535 0 0 0 0
+/assets/front/js/jquery.cycle2.caption2.min.js
+0 19 0 15238 0 0 0 0
+/desa/upload/user_pict/akzlyc_Febri+Anita.jpg
+1 17 0 16519903 0 0 0 0
+/desa/upload/galeri/sedang_yNrf63_WhatsApp+Image+2021-05-06+at+10.05.33.jpeg
+0 16 0 1379204 0 0 0 0
+/desa/upload/artikel/sedang_1622012126_Peta Wilayah.jpg
+1 19 0 1730657 0 0 0 0
+/assets/images/back_button.png
+1 17 0 28756 0 0 0 0
+/
+0 339 0 2263343 43 28 0 0
+/desa/upload/galeri/sedang_Bx9E3e_WhatsApp+Image+2021-05-17+at+11.29.52.jpeg
+0 18 0 1532852 0 0 0 0
+/desa/upload/galeri/kecil_Zt0BYy_WhatsApp+Image+2021-05-17+at+11.36.44.jpeg
+0 17 0 526353 0 0 0 0
+/themes/natra/assets/css/images/slider_next.png
+1 17 0 18608 0 0 0 0
+/themes/natra/assets/fonts/Oswald-Regular-400.woff
+0 17 0 298023 0 0 0 0
+/desa/upload/galeri/sedang_Bwz9j3_WhatsApp+Image+2021-05-18+at+13.01.12.jpeg
+0 18 0 2738745 0 0 0 0
+/securimage/securimage_show.php
+0 23 0 106596 0 2 0 0
+/assets/js/adminlte.min.js
+0 5 0 17580 0 0 0 0
+/desa/upload/artikel/sedang_1621403257_WhatsApp Image 2021-05-17 at 11.36.54.jpeg
+0 8 0 646202 0 0 0 0
+/assets/images/background/loading.gif
+1 1 0 754 0 0 0 0
+/assets/js/leaflet-measure-path.js
+0 5 0 15490 0 0 0 0
+/assets/css/admin-style.css
+0 5 0 15440 0 0 0 0
+/desa/upload/galeri/sedang_qV4b68_WhatsApp+Image+2021-05-06+at+11.39.48.jpeg
+0 16 0 4478695 0 0 0 0
+/assets/bootstrap/js/bootstrap-datepicker.id.min.js
+0 5 0 2925 0 0 0 0
+/themes/natra/assets/js/slick.min.js
+0 19 0 153463 0 0 0 0
+/themes/natra/assets/js/bootstrap.min.js
+0 19 0 185060 0 0 0 0
+/assets/bootstrap/css/bootstrap.min.css
+0 5 0 100365 0 0 0 0
+/desa/upload/artikel/sedang_1621916314_Bundo-Kanduang-Kelurahan-IX-Korong-Budayakan-BASIKAMEH.jpg
+1 7 0 844592 0 0 0 0
+/desa/upload/galeri/sedang_XcFTS9_WhatsApp+Image+2021-05-17+at+11.36.55.jpeg
+0 17 0 1597295 0 0 0 0
+/desa/upload/artikel/sedang_1621403835_WhatsApp Image 2021-05-06 at 11.39.48.jpeg
+0 9 0 2756010 0 0 0 0
+/assets/front/js/layout.js
+0 19 0 8056 0 0 0 0
+/desa/upload/artikel/sedang_1621403686_WhatsApp Image 2021-05-17 at 11.36.44.jpeg
+0 9 0 1071909 0 0 0 0
+/assets/js/validasi.js
+0 20 0 38540 0 0 0 0
+/assets/css/leaflet-geoman.css
+0 5 0 39635 0 0 0 0
+/assets/bootstrap/js/id.js
+0 5 0 6825 0 0 0 0
+/assets/css/peta.css
+0 19 0 53276 0 0 0 0
+/assets/js/leaflet.filelayer.js
+0 5 0 16235 0 0 0 0
+/desa/logo/favicon.ico
+0 16 0 16992 0 0 0 0
+/desa/upload/user_pict/kecil_TwDWmP_Adimon.jpg
+1 1 0 5823 0 0 0 0
+/assets/bootstrap/js/jquery.ui.autocomplete.scroll.min.js
+0 5 0 3145 0 0 0 0
+/assets/images/404-image-not-found.jpg
+1 17 0 390723 0 0 0 0
+/assets/js/peta.js
+0 19 0 164407 0 0 0 0
+/assets/bootstrap/css/bootstrap3-wysihtml5.min.css
+0 5 0 4745 0 0 0 0
+/desa/upload/artikel/sedang_1621403363_WhatsApp Image 2021-05-10 at 10.56.25.jpeg
+0 9 0 453873 0 0 0 0
+/assets/js/leaflet.browser.print.sizes.js
+0 5 0 7445 0 0 0 0
+/assets/bootstrap/css/ionicons.min.css
+0 5 0 42845 0 0 0 0
+/assets/js/togpx.js
+0 5 0 27250 0 0 0 0
+/assets/bootstrap/js/jquery.dataTables.min.js
+0 19 0 542526 0 0 0 0
+/assets/js/localization/messages_id.js
+0 20 0 14800 0 0 0 0
+/assets/js/mapbox-gl.js
+0 19 0 3712068 0 0 0 0
+/assets/css/skins/_all-skins.min.css
+0 5 0 18225 0 0 0 0
+/assets/css/font-awesome.min.css
+0 18 0 132246 0 0 0 0
+/desa/upload/user_pict/1KLNyc_lusi+permata+sari.jpeg
+0 17 0 1382457 0 0 0 0
+/desa/upload/artikel/sedang_1621916714_Pembinaan Pokja IV.jpg
+1 9 0 214605 0 0 0 0
+# End Of Table - urls
+# -sites- (monthly)
+192.168.14.228
+0 2709 2262 100069474 47 1624805445 0 0
+/
+# End Of Table - sites (monthly)
+# -sites- (daily)
+192.168.14.228
+0 1 1 12578 1 1624805445 0 0
+/
+# End Of Table - sites (daily)
+# -referrers- 
+https://sembilankorong.solokkota.go.id/index.php/hom_sid
+0 323
+https://sembilankorong.solokkota.go.id/index.php/
+0 142
+https://sembilankorong.solokkota.go.id/index.php/siteman
+0 45
+https://sembilankorong.solokkota.go.id/
+0 1459
+https://sembilankorong.solokkota.go.id/assets/bootstrap/css/font-awesome.min.css
+0 5
+https://sembilankorong.solokkota.go.id/index.php/artikel/2021/5/17/statistik
+0 26
+https://sembilankorong.solokkota.go.id/index.php/komentar
+0 15
+https://sembilankorong.solokkota.go.id/assets/bootstrap/css/bootstrap.min.css
+0 1
+https://sembilankorong.solokkota.go.id/index.php/artikel/2021/5/24/orbitrasi
+0 5
+https://sembilankorong.solokkota.go.id/index.php/index/4
+0 18
+https://sembilankorong.solokkota.go.id/index.php/setting
+0 12
+https://sembilankorong.solokkota.go.id/index.php/bumindes_keuangan
+0 4
+- (Direct Request)
+0 214
+https://sembilankorong.solokkota.go.id/index.php/web
+0 8
+https://sembilankorong.solokkota.go.id/index.php/artikel/2021/5/19/profil-kelurahan
+0 7
+https://sembilankorong.solokkota.go.id/index.php/artikel/2021/5/25/struktur-organisasi-bundo-kanduang
+0 7
+https://sembilankorong.solokkota.go.id/index.php/artikel/2021/5/25/wilayah-kelurahan
+0 14
+https://sembilankorong.solokkota.go.id/desa/css/siteman.css
+0 6
+https://124.158.163.93/
+0 29
+https://sembilankorong.solokkota.go.id/index.php/gallery
+0 31
+https://sembilankorong.solokkota.go.id/index.php/artikel/2021/5/25/tim-penggerak-pemberdayaan-kesejahteraan-keluarga
+0 8
+https://sembilankorong.solokkota.go.id/index.php/artikel/2021/5/25/visi-misi
+0 44
+https://sembilankorong.solokkota.go.id/index.php/man_user
+0 7
+https://sembilankorong.solokkota.go.id/index.php/modul
+0 8
+https://sembilankorong.solokkota.go.id/assets/css/font-awesome.min.css
+0 16
+https://sembilankorong.solokkota.go.id/themes/natra/assets/css/style.css
+0 16
+https://sembilankorong.solokkota.go.id/index.php/web_widget
+0 14
+http://sembilankorong.solokkota.go.id/wp-login.php
+0 3
+https://sembilankorong.solokkota.go.id/themes/natra/assets/css/font-awesome.min.css
+0 1
+https://sembilankorong.solokkota.go.id/assets/css/leaflet.css
+0 16
+https://sembilankorong.solokkota.go.id/index.php/artikel/2021/5/19/perangkat-kelurahan
+0 33
+https://sembilankorong.solokkota.go.id/assets/bootstrap/css/ionicons.min.css
+0 8
+https://sembilankorong.solokkota.go.id/index.php/menu
+0 9
+https://sembilankorong.solokkota.go.id/index.php/index/5
+0 14
+https://sembilankorong.solokkota.go.id/index.php/artikel/kategori/berita-desa
+0 8
+https://sembilankorong.solokkota.go.id/index.php/sid_core
+0 5
+https://sembilankorong.solokkota.go.id/themes/natra/assets/css/slick.css
+0 32
+https://sembilankorong.solokkota.go.id/index.php/index/3
+0 5
+https://sembilankorong.solokkota.go.id/index.php/pelanggan
+0 8
+https://sembilankorong.solokkota.go.id/index.php/pengurus
+0 14
+https://sembilankorong.solokkota.go.id/index.php/inventaris_tanah
+0 5
+https://sembilankorong.solokkota.go.id/index.php/index/2
+0 19
+https://sembilankorong.solokkota.go.id/index.php/pengunjung
+0 5
+https://sembilankorong.solokkota.go.id/index.php/artikel/2021/5/25/struktur-organisasi-lpmk
+0 3
+https://sembilankorong.solokkota.go.id/index.php/artikel/2021/5/19/sekretariat-tp-pkk-kelurahan-ix-korong
+0 5
+https://sembilankorong.solokkota.go.id/index.php/identitas_desa
+0 6
+http://www.google.com.hk
+0 1
+https://sembilankorong.solokkota.go.id/index.php/web/slider
+0 17
+http://sembilankorong.solokkota.go.id/
+0 1
+https://sembilankorong.solokkota.go.id/index.php/artikel/2013/7/29/lembaga-kemasyarakatan
+0 7
+# End Of Table - referrers
+# -agents- 
+Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/29.0.1547.62 Safari/537.36
+0 10
+Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.101 Safari/537.36
+0 186
+Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/42.0.2311.90 Safari/537.36
+0 1
+Mozilla/5.0 (Windows NT 6.1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/27.0.1453.93 Safari/537.36
+0 5
+WhatsApp/2.21.10.16 A
+0 2
+Mozilla/5.0 (compatible; NetcraftSurveyAgent/1.0; +info@netcraft.com)
+0 2
+Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/31.0.1623.0 Safari/537.36
+0 10
+Mozilla/5.0 (Windows NT 6.1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.101 Safari/537.36
+0 119
+Mozilla/5.0 (Linux; Android 9; SM-G950F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.210 Mobile Safari/537.36
+0 354
+Mozilla/5.0 (Windows NT 6.2; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/29.0.1547.2 Safari/537.36
+0 5
+Mozilla/5.0 (Windows NT 5.1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/36.0.1985.67 Safari/537.36
+0 5
+Mozilla/5.0 (Macintosh; Intel Mac OS X 10_13_3) AppleWebKit/604.5.6 (KHTML, like Gecko) Version/11.0.3 Safari/604.5.6
+0 1
+Mozilla/5.0 (iPhone; CPU iPhone OS 14_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.1 Mobile/15E148 
+0 97
+Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4240.193 Safari/537.36
+0 36
+Mozilla/5.0 (iPhone; CPU iPhone OS 14_6 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.1.1 Mobile/15E148 
+0 1
+Mozilla/5.0 (Macintosh; Intel Mac OS X 11_0_0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.88 Safari/537.36
+0 30
+Chrome/54.0 (Windows NT 10.0)
+0 3
+Mozilla/5.0 (Windows NT 6.2; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/27.0.1500.55 Safari/537.36
+0 5
+Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:89.0) Gecko/20100101 Firefox/89.0
+0 275
+Mozilla/5.0 (Windows NT 10.0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/40.0.2214.93 Safari/537.36
+0 5
+Mozilla/5.0 (Macintosh; Intel Mac OS X 10_9_0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/32.0.1664.3 Safari/537.36
+0 5
+Mozilla/5.0 (Windows NT 6.1; Win64; x64; rv:88.0) Gecko/20100101 Firefox/88.0
+0 214
+Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:88.0) Gecko/20100101 Firefox/88.0
+0 106
+facebookexternalhit/1.1 (+http://www.facebook.com/externalhit_uatext.php)
+0 24
+Mozilla/5.0 (Windows NT 6.3; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/37.0.2049.0 Safari/537.36
+0 5
+Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.77 Safari/537.36
+0 994
+Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.210 Safari/537.36
+0 6
+Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/41.0.2227.0 Safari/537.36
+0 5
+Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:62.0) Gecko/20100101 Firefox/62.0
+0 3
+Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.77 Safari/537.36
+0 195
+# End Of Table - agents
+# -search strings- 
+# End Of Table - search strings
+# -usernames- 
+# End Of Table - usernames
